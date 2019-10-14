@@ -1,11 +1,11 @@
 # 命名规约
 
 ## 目录
-<span id="qj">全局</span>
-<span id="bl">变量命名</span>
-<span id="fwc">服务层</span>
-<span id="hxc">核心层</span>
-<span id="mmfsm">命名法说明</span>
+<a name="qj">全局</a>  
+<a name="bl">变量命名</a>  
+<a name="fwc">服务层</a>  
+<a name="hxc">核心层</a>  
+<a name="mmfsm">命名法说明</a>
 
 
 ## 全局
